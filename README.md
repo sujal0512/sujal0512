@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sujal0512
 - 👀 I’m interested in Web design and App Devlopment
-- 🌱 I’m currently learning BCA 1st Year
+- 🌱 I’m currently learning BCA 2nd Year
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sujal.das8797@gmail.com
 
