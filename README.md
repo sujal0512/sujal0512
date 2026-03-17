@@ -68,7 +68,7 @@
 <p align="center">
 <a href="mailto:sujal.das8797@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
 <a href="https://www.linkedin.com/in/sujal-das-a4a03a298/?skipRedirect=true"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-<a href="https://sujal0512.netlify.app"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel"></a>
+<a href="https://sujalportfolio16.netlify.app"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel"></a>
 </p>
 
 ---
